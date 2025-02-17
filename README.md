@@ -11,13 +11,6 @@
 | Others         | uploadthing, resend, zod, etc    |
 
 
-## View Demo Website
-
-https://next-mongo-ecommerce-final.vercel.app/
-
- orders and users
-
-
 
 ## Contact Developer
 

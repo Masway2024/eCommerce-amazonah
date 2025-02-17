@@ -2,14 +2,14 @@
   "name": "nextjs-amazona",
   "version": "0.1.0",
   "private": true,
- "scripts": {
-  "email": "email dev",
-  "seed": "npx tsx ./lib/db/seed.ts",
-  "dev": "next dev",
-  "build": "npm install --legacy-peer-deps && next build",
-  "start": "next start",
-  "lint": "next lint"
-},
+  "scripts": {
+    "email": "email dev",
+    "seed": "npx tsx ./lib/db/seed.ts",
+    "dev": "next dev",
+    "build": "npm install --legacy-peer-deps && next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
   "dependencies": {
     "@auth/mongodb-adapter": "^3.7.4",
     "@hookform/resolvers": "^3.9.1",
@@ -67,7 +67,7 @@
     "stripe": "^17.5.0",
     "tailwind-merge": "^2.5.5",
     "tailwindcss-animate": "^1.0.7",
-    "uploadthing": "^7.4.1",
+    "uploadthing": "^7.5.1",
     "vaul": "^1.1.2",
     "zod": "^3.24.1",
     "zustand": "^5.0.2"
@@ -85,7 +85,7 @@
     "eslint-config-next": "15.1.0",
     "postcss": "^8",
     "react-email": "^3.0.4",
-    "tailwindcss": "^3.4.1",
+    "tailwindcss": "^3.4.17",
     "typescript": "^5"
   }
 }
